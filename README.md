@@ -3,7 +3,7 @@
 A [PyTorch](http://pytorch.org/) - version 1.1 implementation of [Single-Shot Refinement Neural Network for Object Detection](https://arxiv.org/abs/1711.06897 ). The official and original Caffe code can be found [here](https://github.com/sfzhang15/RefineDet).
 
 <p align="right">
-  <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-RefineDet/blob/master/doc/ssd.png">
+  <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-RefineDet/blob/master/doc/ssd.png" width="300" align="right"/>
 </p>
 
 
