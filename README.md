@@ -3,8 +3,9 @@
 A [PyTorch](http://pytorch.org/) - version 1.1 implementation of [Single-Shot Refinement Neural Network for Object Detection](https://arxiv.org/abs/1711.06897 ). The official and original Caffe code can be found [here](https://github.com/sfzhang15/RefineDet).
 
 <p align="right">
-  <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-RefineDet/blob/master/docs/ssd.png">
+  <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-RefineDet/blob/master/doc/ssd.png">
 </p>
+
 
 ### Table of Contents
 - <a href='#performance'>Performance</a>
@@ -27,7 +28,7 @@ A [PyTorch](http://pytorch.org/) - version 1.1 implementation of [Single-Shot Re
 ##### mAP (*Single Scale Test*)
 
 | Arch | result |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|
 | RefineDet320 | 71.81% |
 | RefineDet512 | Not trained locally yet|
 
@@ -107,7 +108,7 @@ sh ./mainscripts/real_time_evaluation.sh
 ```
 ### A result of webcam realtime test:
 <p align="center">
-  <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-RefineDet/blob/master/docs/real_time_identification.png">
+  <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-RefineDet/blob/master/doc/real_time_identification.png">
 </p>
 
 ## References
